@@ -79,6 +79,8 @@ btnHold.addEventListener('click', function (){
   winner();
 });
 
+// make sure to write comments so other developers can understand the code
+
 // resetting the game
 btnNew.addEventListener('click', init);
 
